@@ -10,7 +10,7 @@ As a Fullstack Developer at TopCV Vietnam, I leverage my skills in React Native,
 #### 🛠 &nbsp;Programming Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Golang](https://img.shields.io/badge/Golang-007d9c?style=for-the-badge&logo=GO&logoColor=white)&nbsp;
 
 <p>
     <a href="https://github.com/xuho">
